@@ -1,7 +1,7 @@
 ## HTTP
 Es un mediador que permite la comunicación segura entre el navegador (cliente) y nuestro servidor, garantizando que los datos viajen cifrados, íntegros y autenticados
 
-![Http](../../diagrams/UnderstandingHttp/http.jpg)
+![Http](../../Diagrams/UnderstandingHttp/http.jpg)
 
 ### Stateless
 Básicamente significa que el servidor no tiene memoria de las interacciones pasada, pon en de por cada request debe tener toda la información necesaria para que el servidor la procese, osea tokens, cookies o credenciales deben enviarse en cada request

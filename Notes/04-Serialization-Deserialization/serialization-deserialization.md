@@ -32,7 +32,7 @@ Desventajas: Más grandes y un poco más lentos
 Ventaja: Más rápidos y eficientes
 Desventajas: No legibles por humanos
 
-![Deserializacion](./Diagrams/SerializationDeserialization/deserializacion.jpg)
+![Deserializacion](../../Diagrams/SerializationDeserialization/deserializacion.jpg)
 
 
 ### JSON (el más común)
